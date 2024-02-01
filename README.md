@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes.
 # Product Lead & Solutions Architect
 
 - 👋 Hi, I’m Rui Vas
-- 🗣️ I speak Portuguese, English, Spanish and a bit of French.
-- 👀 I’m interested in AI, Robotics, 
-- 🌱 I’m currently learning Langchain and multi-agent systems
+- 🗣️ I speak Portuguese, English, Spanish and a bit of French
+- 👀 I’m interested in Systems - AI, Robotics, Biomechanics and Psychology
+- 🌱 I’m currently learning Langchain and multi-agent AI systems
 - 💞️ I’m looking to collaborate on applications of LLMs to business and social impact
-- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 919154539
+- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a great dancer, and musician at times
 
