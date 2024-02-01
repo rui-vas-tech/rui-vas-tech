@@ -1,17 +1,12 @@
 
-<!---
-rui-vas-tech/rui-vas-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Product Lead & Solutions Architect
 
 - 👋 Hi, I’m Rui Vas
-- 😅 Lost access to my previous account: @rui-vas
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
 - 👀 I’m interested in Systems - AI, Robotics, Biomechanics and Psychology
 - 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
 - 💞️ I’m looking to collaborate on applications of LLMs to business and social impact
-- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539
+- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539, on [github](https://github.com/rui-vas-tech), or [linkedin](https://linkedin.com/in/rui-vas)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a great dancer, and musician at times
 
@@ -68,16 +63,15 @@ job, developing adopted solution.
 
 
 ## Education
-
-**4. A history of lifelong education by following my curiosity 
-and running lots of experiments**
+I'm a lifelong learner, follow my curiosity 
+and run lots of experiments in an ongoing basis.
 
 **3. Silicon Valley Accelerator, Founder Institute, Palo Alto, USA, 2018**
 - Early-stage startup accelerator (www.fi.co).
 - Graduated - only 6 out of 27 founders finished.
 
 **2. Research Internship in BioRobotics @ EPFL, Switzerland, 2016-17**
--Validated a control theory hypothesis by building a
+- Validated a control theory hypothesis by building a
 quadruped robot in simulation and hardware, two
 types of controllers (C++) and 7-dim data
 visualization tool (Matlab).
@@ -129,6 +123,4 @@ pitch app in the mental health tech space.
 **1. Boy Scouts, 2003-2013**
 - Works with elderly, children and actions in social
 neighbourhoods.
-Lead group of 25 by age 14.
-
-
+- Lead group of 25 by age 14.
