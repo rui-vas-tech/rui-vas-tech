@@ -1,28 +1,18 @@
-- 👋 Hi, I’m @rui-vas-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 rui-vas-tech/rui-vas-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Rui Vas
-
 # Product Lead & Solutions Architect
 
-I speak Portuguese, English, Spanish and a bit of French.
-
-## Contacts
-
-- rui.vasconcelos.mail@gmail.com
-- github.com/rui-vas
-- linkedin.com/in/rui-vas 
-- (+351) 919154539
+- 👋 Hi, I’m Rui Vas
+- 🗣️ I speak Portuguese, English, Spanish and a bit of French.
+- 👀 I’m interested in AI, Robotics, 
+- 🌱 I’m currently learning Langchain and multi-agent systems
+- 💞️ I’m looking to collaborate on applications of LLMs to business and social impact
+- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 919154539
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a great dancer, and musician at times
 
 ## Experience
 
