@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Product Lead & Solutions Architect
 
 - 👋 Hi, I’m Rui Vas
+- 😅 Lost access to my previous account: @rui-vas
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
 - 👀 I’m interested in Systems - AI, Robotics, Biomechanics and Psychology
 - 🌱 I’m currently learning Langchain and multi-agent AI systems
