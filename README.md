@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 😅 Lost access to my previous account: @rui-vas
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
 - 👀 I’m interested in Systems - AI, Robotics, Biomechanics and Psychology
-- 🌱 I’m currently learning Langchain and multi-agent AI systems
+- 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
 - 💞️ I’m looking to collaborate on applications of LLMs to business and social impact
 - 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539
 - 😄 Pronouns: he/him
