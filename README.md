@@ -10,6 +10,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a great dancer, and musician at times
 
+  This is my second github account - see my first one [here](https://github.com/rui-vas).
+
 ## Experience
 
 **6. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
