@@ -14,13 +14,13 @@
 
 ## Experience
 
-**6. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
+**7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
 - Automated Personalised GPT-based Email
 Outreach
 - Developed process to go from book to audiobook
 for Spark Publishing company
 
-**5. co-Founder & CEO @ RadioBooks, Lisbon, PT, 2021-23**
+**6. co-Founder & CEO @ RadioBooks, Lisbon, PT, 2021-23**
 - Radiobooks helps authors and publishers convert
 books into audiobooks 10x faster and cheaper with
 the latest AI.
@@ -28,7 +28,7 @@ the latest AI.
 launched 2 products (B2C & B2B), failed to find P-M fit.
 - Partnered with Nvidia and Microsoft
 
-**4. AI/ML Product Manager @ Canonical/Ubuntu, London, UK, 2020-21**
+**5. AI/ML Product Manager @ Canonical/Ubuntu, London, UK, 2020-21**
 - Canonical publishes Ubuntu, the most used Linux
 OS in the world, with partners like Google, AWS, MSFT,
 DELL, Nvidia and customers like Netflix, Tesla, Uber &
@@ -36,6 +36,10 @@ Spotify.
 - Lead product and GTM strategy for Kubeflow and
 MLOps, reporting to the CEO.
 - From 0 to $4M ARR.
+
+**4. Head of Growth @ Leadzai, Lisbon, Portugal, 2019**
+- Leadzai raised 7M€+ to help small businesses tap into online ads without risk. 
+- I mapped acquisition funnels, interviewed customers, proposed a product re-design and led it.
 
 **3. Program Manager @ Founder Institute, Lisbon, Portugal, 2018-21**
 - after going through the program in Silicon Valley,
