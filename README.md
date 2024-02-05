@@ -1,16 +1,14 @@
 
-# Product Lead & Solutions Architect
+# Senior Product Manager
 
 - 👋 Hi, I’m Rui Vas
 - 🗣️ I speak Portuguese, English, Spanish and a bit of French
-- 👀 I’m interested in Systems - AI, Robotics, Biomechanics and Psychology
+- 👀 I’m interested in Systems - AI, Robotics, Biology and Psychology
 - 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
-- 💞️ I’m looking to collaborate on applications of LLMs to business and social impact
+- 🚀 I’m looking to work on large-scale applications of AI with positive impact
 - 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539, on [github](https://github.com/rui-vas-tech), or [linkedin](https://linkedin.com/in/rui-vas)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a great dancer, and musician at times
-
-  This is my second github account - see my first one [here](https://github.com/rui-vas).
+- ⚡ Fun fact: I love Kung Fu, dance, and singing
 
 ## Experience
 
@@ -20,8 +18,8 @@ Outreach
 - Developed process to go from book to audiobook
 for Spark Publishing company
 
-**6. co-Founder & CEO @ RadioBooks, Lisbon, PT, 2021-23**
-- Radiobooks helps authors and publishers convert
+**6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
+- Radiobooks helped authors and publishers convert
 books into audiobooks 10x faster and cheaper with
 the latest AI.
 - Started the company, built a team of 6, and
@@ -35,11 +33,17 @@ DELL, Nvidia and customers like Netflix, Tesla, Uber &
 Spotify.
 - Lead product and GTM strategy for Kubeflow and
 MLOps, reporting to the CEO.
-- From 0 to $4M ARR.
+- From 0 to $4M NRR.
+
+	**Documentation Lead @ Kubeflow / Google Vertex AI**
+
+- I represented Canonical at the Kubeflow opensource community.
+- Became the #1 contributor outside of Google to documentation.
+- Lead a docs restructure + release of versions v1.2, v1.3
 
 **4. Head of Growth @ Leadzai, Lisbon, Portugal, 2019**
 - Leadzai raised 7M€+ to help small businesses tap into online ads without risk. 
-- I mapped acquisition funnels, interviewed customers, proposed a product re-design and led it.
+- I mapped acquisition funnels, interviewed customers, proposed a product re-design to the CEO and board, and lead the effort.
 
 **3. Program Manager @ Founder Institute, Lisbon, Portugal, 2018-21**
 - after going through the program in Silicon Valley,
@@ -50,7 +54,7 @@ entrepreneurs
 fit, branding, team, and all things entrepreneurship
 - invited experienced mentors and led pitch sessions
 
-**2. co-Founder & All hats @ TechOS, Palo Alto, California, 2018**
+**2. co-Founder @ TechOS, Palo Alto, California, 2018**
 - TechOS is a centralized marketplace for dev
 freelancers, with standardized price and quality.
 - Created sales pipeline - USA, UK, Switzerland -$100k+
