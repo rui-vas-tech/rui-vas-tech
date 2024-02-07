@@ -13,17 +13,12 @@
 
 **7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
 - Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
-- Automated Personalised GPT-based Email
-Outreach
-- Developed process to go from book to audiobook
-for Spark Publishing company
+- Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
+- Automated personalised GPT-based email outreach, generating 92% open rates
 
 **6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
-- Radiobooks helped authors and publishers convert
-books into audiobooks 10x faster and cheaper with
-the latest AI.
-- Started the company, built a team of 6, and
-launched 2 products (B2C & B2B), failed to find P-M fit.
+- Radiobooks helped authors and publishers convert books into audiobooks 10x faster and cheaper with the latest AI.
+- Started the company, built a team of 6, and launched 2 products (B2C & B2B), failed to find P-M fit.
 - Partnered with Nvidia and Microsoft
 
 **5. AI/ML Product Manager @ Canonical/Ubuntu, London, UK, 2020-21**
