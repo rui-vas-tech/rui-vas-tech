@@ -12,10 +12,12 @@
 ## Experience
 
 **7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
+- Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
 - Automated Personalised GPT-based Email
 Outreach
 - Developed process to go from book to audiobook
 for Spark Publishing company
+- Founder decided to close operations 4 months in
 
 **6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
 - Radiobooks helped authors and publishers convert
