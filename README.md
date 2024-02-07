@@ -118,14 +118,6 @@ companies, ~1k attendees, 10k€ profit.
 
 ## Volunteering
 
-**3. Documentation Lead @ Kubeflow / Google Vertex AI, 2020-22**
-- Kubeflow is at the base of Google's Vertex AI.
-- I represented Canonical at the Kubeflow opensource community.
-- Became the #1 contributor outside of Google to
-documentation.
-- Lead a docs restructure + release of versions v1.2,
-v1.3
-
 **2. Innovation Mentor @ ETIC - 2019-23**
 - Mentored students to ideate, validate, prototype and
 pitch app in the mental health tech space.
