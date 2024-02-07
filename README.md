@@ -110,17 +110,16 @@ companies, ~1k attendees, 10k€ profit.
 - Private Equity and Venture Capital (Bocconi)
 
 **1. Udemy**
-- Kubernetes
-- Javascript
-- CSS + Sass
-- React, Redux, NodeJS, MongoDB
-- Ethereum + Solidity
+- Data: SQL, MongoDB
+- Front-End: CSS, Sass, JavaScript, React, Redux, NodeJS 
+- DevOps: CI/CD, Docker, Kubernetes
+- Blockchain: Ethereum Solidity
 
 ## Volunteering
 
 **2. Innovation Mentor @ ETIC - 2019-23**
-- Mentored students to ideate, validate, prototype and
-pitch app in the mental health tech space.
+- Mentoring students under the project ETIC IDEA
+- The students I mentored won 2 awards for projects developed for FNAC and Fundação Gil
 
 **1. Boy Scouts, 2003-2013**
 - Works with elderly, children and actions in social
