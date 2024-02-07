@@ -17,7 +17,6 @@
 Outreach
 - Developed process to go from book to audiobook
 for Spark Publishing company
-- Founder decided to close operations 4 months in
 
 **6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
 - Radiobooks helped authors and publishers convert
