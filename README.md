@@ -11,7 +11,7 @@ A life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 
 
 🫀 This is a heart-centered application to work with you to spread education on the field of human greatness.
 
-## Experience - What I've done to date
+## Career track - Gaining skills to add value now!
 
 **7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
 - Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
