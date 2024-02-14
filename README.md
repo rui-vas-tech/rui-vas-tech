@@ -69,9 +69,7 @@ prototyped and tested new robot's components.
 job, developing adopted solution.
 
 
-## Education
-I'm a lifelong learner, follow my curiosity 
-and run lots of experiments in an ongoing basis.
+## 📚 Formal Education
 
 **3. Silicon Valley Accelerator, Founder Institute, Palo Alto, USA, 2018**
 - Early-stage startup accelerator (www.fi.co).
@@ -112,7 +110,7 @@ companies, ~1k attendees, 10k€ profit.
 - DevOps: CI/CD, Docker, Kubernetes
 - Blockchain: Ethereum Solidity
 
-## Volunteering
+## 👐 Volunteering
 
 **2. Innovation Mentor @ ETIC - 2019-23**
 - Mentoring students under the project ETIC IDEA
