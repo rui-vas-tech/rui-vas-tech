@@ -7,9 +7,9 @@ A life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 
 
 🎯 On a mission to spread education since 2021
 
-🪴 Growing with Mindvalley since 2021 - I became extraordinary with Vishen, learned Qi Gong from Lee, developed my money EQ with Ken, breathed with Niraj and fell asleep countless nights with delta waves.
+🪴 Growing with Mindvalley since 2021 - I became extraordinary with Vishen, learned Qi Gong from Lee, developed my money EQ with Ken, breathed with Niraj and fell asleep countless nights with delta waves
 
-🫀 This is a heart-centered application to work with you to spread education on the field of human greatness.
+🫀 This is a heart-centered application to work with you to spread education on the field of human greatness
 
 ## Career track - Gaining skills to add value now!
 
