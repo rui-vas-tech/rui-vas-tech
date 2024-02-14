@@ -1,11 +1,17 @@
 
 # Personal Dev Product Manager for MindValley
 
-Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui](https://www.instagram.com/expanding.rui/).
+Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui](https://www.instagram.com/expanding.rui/)
 
-A life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 🥷 marcial arts practitioner ✨ aspiring healer.
+A life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 🥷 marcial arts practitioner ✨ aspiring healer
 
-## Experience
+🎯 On a mission to spread education since 2021
+
+🪴 Growing with Mindvalley since 2021 - I became extraordinary with Vishen, learned Qi Gong from Lee, developed my money EQ with Ken, breathed with Niraj and fell asleep countless nights with delta waves.
+
+🫀 This is a heart-centered application to work with you to spread education on the field of human greatness.
+
+## Experience - What I've done to date
 
 **7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
 - Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
