@@ -1,5 +1,5 @@
 
-# Personal Dev Product Manager for MindValley
+# Product Manager for MindValley
 
 Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui](https://www.instagram.com/expanding.rui/)
 
