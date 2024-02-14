@@ -1,13 +1,9 @@
 
-# Senior Product Manager
+# Personal Dev Product Manager for MindValley
 
-- 👋 Hi, I’m Rui Vas (he/him)
-- 🗣️ I speak Portuguese, English, Spanish and a bit of French
-- 👀 I’m interested in Systems - AI, Robotics, Biology and Psychology
-- 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
-- 🚀 I’m looking to work on large-scale applications of AI with positive impact
-- 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539, on [github](https://github.com/rui-vas-tech), or [linkedin](https://linkedin.com/in/rui-vas)
-- ⚡ Fun fact: I love Kung Fu, dance, and singing
+Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui]([url](https://www.instagram.com/expanding.rui/)).
+
+A life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 🥷 marcial arts practitioner ✨ aspiring healer.
 
 ## Experience
 
