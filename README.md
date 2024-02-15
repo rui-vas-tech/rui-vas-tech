@@ -15,12 +15,13 @@ Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui
 ## 🛤️ Career track - Gaining skills to add value now!
 
 
-**7. Product Manager, AI/ML @ AI.PT - Lisbon, PT - 2023**
-- Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
+**7. Product Manager, AI/ML @ AI.PT - Lisbon, PT, 2023**
+- ai.pt started with the vision of an AI-centric venture studio in Lisbon, presented an opportunity to continue the work at Radiobooks and possibly make an exit
 - Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
 - Automated personalised GPT-based email outreach, generating 92% open rates
 
-**6. Founder & Product Lead @ RadioBooks, Lisbon, PT, 2021-23**
+**6. EdTech Founder & Product Lead @ RadioBooks, Lisbon, PT, 2021-23**
+
 - Radiobooks helped authors and publishers convert books into audiobooks 10x faster and cheaper with the latest AI.
 - Started the company, built a team of 6, and launched 2 products (B2C & B2B), failed to find P-M fit.
 - Partnered with Nvidia and Microsoft
