@@ -1,26 +1,31 @@
+
 # Product Manager for MindValley
 
-Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui](https://www.instagram.com/expanding.rui/), a life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 🥷 marcial arts practitioner ✨ aspiring healer
+Hi 👋 I’m [Rui Vas](https://linkedin.com/in/rui-vas), a.k.a. [@expanding.rui](https://www.instagram.com/expanding.rui/), a life-long learner 🧠 robotics engineer 🤓 product manager 🚀 2x founder 🥷 marcial arts practitioner ✨ aspiring healer.
 
-🎯 On a mission to spread education since 2021
+	🎯 On a mission to spread education since 2021
 
-🪴 Growing with Mindvalley since 2021 - I became extraordinary with Vishen, learned Qi Gong from Lee, developed my money EQ with Ken, breathed with Niraj and fell asleep countless nights with delta waves
+	🪴 Growing with Mindvalley since 2021
 
-🫀 This is a heart-centered application to work with you to spread education on the field of human greatness
+	I became extraordinary with Vishen, learned Qi Gong from Lee, developed my money EQ 
+    with Ken, breathed with Niraj and fell asleep countless nights with delta waves
+
+🫀 This is a mind-heart-body aligned application to work with you to spread education on the field of human greatness
 
 ## 🛤️ Career track - Gaining skills to add value now!
 
-**7. AI/ML Product Manager @ AI.PT - Lisbon, PT - 2023**
+
+**7. Product Manager, AI/ML @ AI.PT - Lisbon, PT - 2023**
 - Joined ai.pt for the vision of building an AI-centric venture studio in Lisbon
 - Developed process to produce audiobooks with TTS from a book, passing the "humanity" test, and publishing a full AI-Gen audiobook on Audible
 - Automated personalised GPT-based email outreach, generating 92% open rates
 
-**6. Founder @ RadioBooks, Lisbon, PT, 2021-23**
+**6. Founder & Product Lead @ RadioBooks, Lisbon, PT, 2021-23**
 - Radiobooks helped authors and publishers convert books into audiobooks 10x faster and cheaper with the latest AI.
 - Started the company, built a team of 6, and launched 2 products (B2C & B2B), failed to find P-M fit.
 - Partnered with Nvidia and Microsoft
 
-**5. AI/ML Product Manager @ Canonical/Ubuntu, London, UK, 2020-21**
+**5. Product Manager, AI/ML @ Canonical/Ubuntu, London, UK, 2020-21**
 - Canonical publishes Ubuntu, the most used Linux
 OS in the world, with partners like Google, AWS, MSFT,
 DELL, Nvidia and customers like Netflix, Tesla, Uber &
@@ -91,7 +96,7 @@ Council.
 companies, ~1k attendees, 10k€ profit.
 
 
-## Courses & Certifications
+## 🏆 Courses & Certifications
 **3. Udacity**
 - Data Engineering Nanodegree: SQL, Cassandra, Spark, Airflow
 
@@ -107,7 +112,7 @@ companies, ~1k attendees, 10k€ profit.
 - DevOps: CI/CD, Docker, Kubernetes
 - Blockchain: Ethereum Solidity
 
-## 👐 Volunteering
+## 🙌 Volunteering
 
 **2. Innovation Mentor @ ETIC - 2019-23**
 - Mentoring students under the project ETIC IDEA
