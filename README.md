@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to use multi-agent AI systems - autogen, langchain, crewai
 - 🚀 I’m looking to work on large-scale applications of AI with positive impact
 - 📫 How to reach me at rui.vasconcelos.mail@gmail.com, or via whatsapp on (+351) 91 9154539, on [github](https://github.com/rui-vas-tech), or [linkedin](https://linkedin.com/in/rui-vas)
-- ⚡ Fun fact: I love Kung Fu, dance, and singing
+- 🫀 I stay in good health by practicing meditation, QiGong, Kung Fu, swimming, dancing and time in nature
 
 ## Experience
 
@@ -32,9 +32,9 @@ MLOps, reporting to the CEO.
 
 	**Documentation Lead @ Kubeflow / Google Vertex AI**
 
-- I represented Canonical at the Kubeflow opensource community.
-- Became the #1 contributor outside of Google to documentation.
-- Lead a docs restructure + release of versions v1.2, v1.3
+  - I represented Canonical at the Kubeflow opensource community.
+  - Became the #1 contributor outside of Google to documentation.
+  - Lead a docs restructure + release of versions v1.2, v1.3
 
 **4. Head of Growth @ Leadzai, Lisbon, Portugal, 2019**
 - Leadzai raised 7M€+ to help small businesses tap into online ads without risk. 
