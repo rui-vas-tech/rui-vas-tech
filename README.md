@@ -76,6 +76,7 @@ and run lots of experiments in an ongoing basis.
 - Graduated - only 6 out of 27 founders finished.
 
 **2. Research Internship in BioRobotics @ EPFL, Switzerland, 2016-17**
+- Graded 6 out of 6
 - Validated a control theory hypothesis by building a
 quadruped robot in simulation and hardware, two
 types of controllers (C++) and 7-dim data
@@ -84,7 +85,7 @@ visualization tool (Matlab).
 (IROS 2017 Vancouver).
 
 **1. BSc. + MSc. Systems Engineering, IST, Lisbon, 2011-16**
-- Top 1% GPA
+- #1 out of 165 GPA 
 - Awarded "Best Portuguese MSc. Thesis in Robotics
 2016" by PRS.
 - Elected Delegate for ~1500 MSc. and BSc. students.
